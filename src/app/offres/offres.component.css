@@ -1,0 +1,53 @@
+/*table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  th, td {
+    border: none;
+    padding: 8px;
+    text-align: left;
+  }
+  .checkbox-container {
+    display: flex;
+    align-items: center;
+  }
+  .checkbox-circle {
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    border: 1px solid black;
+    margin-right: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:green;
+
+  }
+  .checkbox-circle.checked::after {
+    content: '\2713';
+    font-size: 14px;
+  }
+  .checkbox-circle.unchecked::after {
+    content: '';
+  }
+  .checked {
+    color: green;
+  }
+  .unchecked {
+    color: red;
+    text-decoration: line-through;
+    background-color:red;
+
+  }
+  .offre {
+    margin-bottom: 20px;
+  }
+
+  .buy-button {
+    background-color: green;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+  }*/
